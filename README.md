@@ -7,11 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OswaldBarbosa&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<br></br>
+<br>
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OswaldBarbosa&bg_color=0C1014&color=4169E1&line=4682B4&point=ADD8E6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br></br>
+<br>
 
 <div align="center"> 
   <a href="https://instagram.com/oswald_barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/oswaldo-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<br></br>
+<br>
 
 ### Main skills:
 <div style="display: inline_block">
